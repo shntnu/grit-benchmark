@@ -1,5 +1,39 @@
 # Similarity Metrics Taxonomy
 
+- [Similarity Metrics Taxonomy](#similarity-metrics-taxonomy)
+  * [Self-similarity metrics](#self-similarity-metrics)
+  * [Level 1-0](#level-1-0)
+    + [Similarities](#similarities)
+    + [Scaling parameters](#scaling-parameters)
+      - [With respect to non-replicates](#with-respect-to-non-replicates)
+      - [With respect to reference](#with-respect-to-reference)
+    + [Scaled similarities](#scaled-similarities)
+      - [With respect to non-replicates](#with-respect-to-non-replicates-1)
+      - [With respect to reference](#with-respect-to-reference-1)
+  * [Level 1 (summaries of Level 1-0)](#level-1--summaries-of-level-1-0-)
+    + [Summaries of Level 1-0 similarities](#summaries-of-level-1-0-similarities)
+    + [Summaries of Level 1-0 scaling parameters](#summaries-of-level-1-0-scaling-parameters)
+      - [With respect to non-replicates](#with-respect-to-non-replicates-2)
+      - [With respect to reference](#with-respect-to-reference-2)
+    + [Summaries of Level 1-0 scaled similarities](#summaries-of-level-1-0-scaled-similarities)
+      - [With respect to non-replicates](#with-respect-to-non-replicates-3)
+      - [With respect to reference](#with-respect-to-reference-3)
+  * [Level 2-1](#level-2-1)
+    + [Similarities](#similarities-1)
+    + [Scaling parameters](#scaling-parameters-1)
+      - [With respect to non-replicates](#with-respect-to-non-replicates-4)
+      - [With respect to reference](#with-respect-to-reference-4)
+    + [Scaled similarities](#scaled-similarities-1)
+      - [With respect to non-replicates](#with-respect-to-non-replicates-5)
+      - [With respect to reference](#with-respect-to-reference-5)
+  * [Level 2 (summaries of Level 2-1)](#level-2--summaries-of-level-2-1-)
+    + [Summaries of Level 2-1 similarities](#summaries-of-level-2-1-similarities)
+    + [Summaries of Level 2-1 scaling parameters](#summaries-of-level-2-1-scaling-parameters)
+    + [Summaries of Level 2-1 scaled similarities](#summaries-of-level-2-1-scaled-similarities)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 The similarity matrix represents a graph with vertices and edges.
 
 Each vertex belongs to 3 nested sets
